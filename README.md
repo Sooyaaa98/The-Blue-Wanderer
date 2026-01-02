@@ -72,3 +72,9 @@ Learn project structuring and version control
 
 Build a complete, presentable indie-style game project
 
+🙏 Credits & Acknowledgements
+
+This project was inspired by and partially based on learning material and tutorials by Ryisnow.
+The implementation was adapted, modified, and extended as part of a personal learning project to better understand Java 2D game development, game loops, and object-oriented design.
+
+All changes, customizations, and project structuring were done independently for educational and portfolio purposes.
